@@ -49,4 +49,4 @@ Whether you're a **student**, **developer**, or **contributor to open-source**, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/<AnkitShukla-arch>/<Git-and-Github-Notes>.git
